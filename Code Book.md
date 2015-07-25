@@ -54,10 +54,10 @@ std: Standard deviation) :
 -	tBodyGyroJerk-std-Y	: std jerk signal in time in Y direction from angular velocity
 -	tBodyGyroJerk-std-Z	: std jerk signal in time in Z direction from angular velocity
 -	tBodyAccMag-std	: std magnitude of body acceleration in time 
--	tGravityAccMag-std	: std magnitude of gravity acceleration in time
--	tBodyAccJerkMag-std	: std magnitude of jerk signal in time from body acceleration
--	tBodyGyroMag-std	: std magnitude of body angulare velocity
--	tBodyGyroJerkMag-std	: std magnitude of jerk signal in time from angular velocity
+-	tGravityAccMag-std	: std magnitude of gravity acceleration in time domaine
+-	tBodyAccJerkMag-std	: std magnitude of jerk signal in time domaine from body acceleration
+-	tBodyGyroMag-std	: std magnitude of body angulare velocity in time domaine
+-	tBodyGyroJerkMag-std	: std magnitude of jerk signal in time domaine from angular velocity
 -	fBodyAcc-std-X	: std  body acceleration (fast fournier transformation) in X direction 
 -	fBodyAcc-std-Y	: std body acceleration in frequency domaine (fast fournier transformation) in Y direction
 -	fBodyAcc-std-Z	: std body acceleration in frequency domaine (fast fournier transformation) in Z direction
@@ -68,9 +68,9 @@ std: Standard deviation) :
 -	fBodyGyro-std-Y	: std body angulare velocity in frequency domaine (fast fournier transformation) in Y direction 
 -	fBodyGyro-std-Z	: std body angulare velocity in frequency domaine (fast fournier transformation) in Z direction 
 -	fBodyAccMag-std	: std magnitude of body acceleration in frequency domaine (fast fournier transformation)
--	fBodyBodyAccJerkMag-std	: std magnitude of jerk signal in frequency domaine (fast fournier transformation) in time from body acceleration
+-	fBodyBodyAccJerkMag-std	: std magnitude of jerk signal in frequency domaine (fast fournier transformation)  from body acceleration
 -	fBodyBodyGyroMag-std	: std magnitude of body angulare velocity in frequency domaine (fast fournier transformation)
--	fBodyBodyGyroJerkMag-std	: std magnitude of jerk signal in frequency domaine (fast fournier transformation) in time from angular velocity
+-	fBodyBodyGyroJerkMag-std	: std magnitude of jerk signal in frequency domaine (fast fournier transformation)  from angular velocity
 
 
 Note : The units used for the accelerations (body) are 'g's (gravity of earth -> 9.80665 m/seg2) and the gyroscope units are rad/seg.			

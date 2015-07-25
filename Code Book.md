@@ -12,32 +12,32 @@ std: Standard deviation) :
 -	tGravityAcc-mean-Y	: Mean gravity acceleration in time domaine in Y direction
 -	tGravityAcc-mean-Z	: Mean gravity acceleration in time domaine in Z direction
 -	tBodyAccJerk-mean-X	: Mean jerk signal in time domaine in X direction from body acceleration
--	tBodyAccJerk-mean-Y	: Mean jerk signal in time in domaine Y direction body acceleration
--	tBodyAccJerk-mean-Z	: Mean jerk signal in time in domaine in Z direction body acceleration
--	tBodyGyro-mean-X	: Mean body angulare velocity in X direction in time in domaine
--	tBodyGyro-mean-Y	: Mean body angulare velocity in Y direction in time in domaine
--	tBodyGyro-mean-Z	: Mean body angulare velocity in Z direction in time in domaine
--	tBodyGyroJerk-mean-X	: Mean jerk signal in time in domaine in X direction from angular velocity
--	tBodyGyroJerk-mean-Y	: Mean jerk signal in time in domaine in Y direction from angular velocity
--	tBodyGyroJerk-mean-Z	: Mean jerk signal in time in domaine in Z direction from angular velocity
+-	tBodyAccJerk-mean-Y	: Mean jerk signal in time domaine in Y direction body acceleration
+-	tBodyAccJerk-mean-Z	: Mean jerk signal in time domaine in Z direction body acceleration
+-	tBodyGyro-mean-X	: Mean body angulare velocity in X direction in time domaine
+-	tBodyGyro-mean-Y	: Mean body angulare velocity in Y direction in time domaine
+-	tBodyGyro-mean-Z	: Mean body angulare velocity in Z direction in time domaine
+-	tBodyGyroJerk-mean-X	: Mean jerk signal in time domaine in X direction from angular velocity
+-	tBodyGyroJerk-mean-Y	: Mean jerk signal in time domaine in Y direction from angular velocity
+-	tBodyGyroJerk-mean-Z	: Mean jerk signal in time domaine in Z direction from angular velocity
 -	tBodyAccMag-mean	: Mean magnitude of body acceleration in time domaine
 -	tGravityAccMag-mean	: Mean magnitude of gravity acceleration in time domaine
--	tBodyAccJerkMag-mean	: Mean magnitude of jerk signal in time in domaine from body acceleration
--	tBodyGyroMag-mean	: Mean magnitude of body angulare velocity in time in domaine
+-	tBodyAccJerkMag-mean	: Mean magnitude of jerk signal in time domaine from body acceleration
+-	tBodyGyroMag-mean	: Mean magnitude of body angulare velocity in time domaine
 -	tBodyGyroJerkMag-mean	: Mean magnitude of jerk signal in time domaine from angular velocity
--	fBodyAcc-mean-X	: Mean  body acceleration in time (fast fournier transformation) in X direction 
--	fBodyAcc-mean-Y	: Mean body acceleration in time (fast fournier transformation) in Y direction
--	fBodyAcc-mean-Z	: Mean body acceleration in time (fast fournier transformation) in Z direction
--	fBodyAccJerk-mean-X	: Mean jerk signal in time (fast fournier transformation) in X direction from body acceleration
--	fBodyAccJerk-mean-Y	: Mean jerk signal in time (fast fournier transformation) in Y direction body acceleration
--	fBodyAccJerk-mean-Z	: Mean jerk signal in time (fast fournier transformation) in Z direction body acceleration
--	fBodyGyro-mean-X	: Mean body angulare velocity (fast fournier transformation) in X direction 
--	fBodyGyro-mean-Y	: Mean body angulare velocity (fast fournier transformation) in Y direction 
--	fBodyGyro-mean-Z	: Mean body angulare velocity (fast fournier transformation) in Z direction 
--	fBodyAccMag-mean	: Mean magnitude of body acceleration in time (fast fournier transformation)
--	fBodyBodyAccJerkMag-mean	: Mean magnitude of jerk signal (fast fournier transformation) in time from body acceleration
+-	fBodyAcc-mean-X	: Mean  body acceleration in frequency domaine (fast fournier transformation) in X direction 
+-	fBodyAcc-mean-Y	: Mean body acceleration in frequency domaine (fast fournier transformation) in Y direction
+-	fBodyAcc-mean-Z	: Mean body acceleration in frequency domaine (fast fournier transformation) in Z direction
+-	fBodyAccJerk-mean-X	: Mean jerk signal in frequency domaine (fast fournier transformation) in X direction from body acceleration
+-	fBodyAccJerk-mean-Y	: Mean jerk signal in frequency domaine (fast fournier transformation) in Y direction body acceleration
+-	fBodyAccJerk-mean-Z	: Mean jerk signal in frequency domaine (fast fournier transformation) in Z direction body acceleration
+-	fBodyGyro-mean-X	: Mean body angulare velocity (fast fournier transformation) in X direction infrequency domaine
+-	fBodyGyro-mean-Y	: Mean body angulare velocity (fast fournier transformation) in Y direction in frequency domaine
+-	fBodyGyro-mean-Z	: Mean body angulare velocity (fast fournier transformation) in Z direction in frequency domaine
+-	fBodyAccMag-mean	: Mean magnitude of body acceleration in frequency domaine (fast fournier transformation)
+-	fBodyBodyAccJerkMag-mean	: Mean magnitude of jerk signal (fast fournier transformation) in frequency domaine from body acceleration
 -	fBodyBodyGyroMag-mean	: Mean magnitude of body angulare velocity (fast fournier transformation)
--	fBodyBodyGyroJerkMag-mean	: Mean magnitude of jerk signal (fast fournier transformation) in time from angular velocity
+-	fBodyBodyGyroJerkMag-mean	: Mean magnitude of jerk signal (fast fournier transformation) in frequency domaine from angular velocity
 -	tBodyAcc-std-X	: std  body acceleration in time in X direction
 -	tBodyAcc-std-Y	: Mean body acceleration in time in Y direction
 -	tBodyAcc-std-Z	: std body acceleration in time in Z direction

@@ -1,9 +1,6 @@
-
-# load packages - The packages do not need to be loaded for this project
-#library(plyr)
-#library(dplyr)
-#library(reshape2)
-#library(sqldf)
+# Auhor = Laurent Anstett 25/7/2015
+# Some parts of code lines were found on forums and tutorials
+# run_analysis.R
 
 # load data
 activity_lables <- read.table("./UCI HAR Dataset/activity_labels.txt")

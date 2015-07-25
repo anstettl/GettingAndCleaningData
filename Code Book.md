@@ -73,6 +73,6 @@ std: Standard deviation) :
 -	fBodyBodyGyroJerkMag-std	: std magnitude of jerk signal (fast fournier transformation) in time from angular velocity
 
 
-Note : The units used for the accelerations (total and body) are 'g's (gravity of earth -> 9.80665 m/seg2) and the gyroscope units are rad/seg.			
+Note : The units used for the accelerations (body) are 'g's (gravity of earth -> 9.80665 m/seg2) and the gyroscope units are rad/seg.			
 			
 For more information on how the value for each variable was calculated, read readme.txt, features.txt and features_info.txt. These files are located in the folder "UCI HAR Dataset".

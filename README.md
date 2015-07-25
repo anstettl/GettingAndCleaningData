@@ -7,7 +7,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 To run the script (run_analysis.R), follow the following instructions :
 - Download the data and unzip the file in your working directory (where the script resides). Once the data is downloaded and unzipped, you should have the folder "UCI HAR Dataset" in your working directory.
 - Set the R working directory (setwd()) to your working directory (path to where the script is located)
-- Run script
+- Run run_analysis.R
 
 Note : If the data is not in your working directory, the script will not run.
 

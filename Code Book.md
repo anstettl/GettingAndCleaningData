@@ -70,7 +70,7 @@ std: Standard deviation) :
 -	fBodyAccMag-std	: std magnitude of body acceleration in frequency domaine (fast fournier transformation)
 -	fBodyBodyAccJerkMag-std	: std magnitude of jerk signal in frequency domaine (fast fournier transformation) in time from body acceleration
 -	fBodyBodyGyroMag-std	: std magnitude of body angulare velocity in frequency domaine (fast fournier transformation)
--	fBodyBodyGyroJerkMag-std	: std magnitude of jerk signal infrequency domaine (fast fournier transformation) in time from angular velocity
+-	fBodyBodyGyroJerkMag-std	: std magnitude of jerk signal in frequency domaine (fast fournier transformation) in time from angular velocity
 
 
 Note : The units used for the accelerations (body) are 'g's (gravity of earth -> 9.80665 m/seg2) and the gyroscope units are rad/seg.			
